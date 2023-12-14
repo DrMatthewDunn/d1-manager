@@ -51,3 +51,4 @@ Also, there are some configuration options that can be set through environment v
 ![semantic-query](./images/semantic-query.png)
 
 > Semantic Query uses OpenAI GPT-3.5 Turbo to translate natural language queries into SQL.
+> hmmm
